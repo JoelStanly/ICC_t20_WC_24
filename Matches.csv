@@ -1,0 +1,52 @@
+matchNumber,matchDate,matchTime,dayNight,group,matchId,matchResult,teamAId,teamBId,teamA,teamB,venue,winningTeamId,tossElectedTo,tossWonBy,series_name,margin,losingTeamId
+Match 1,6/1/2024,19:30,True,A,239603,USA beat Canada by 7 wickets,22,12,USA,CAN,"Grand Prairie Cricket Stadium, Dallas",22,field,22,"ICC Men's T20 World Cup, 2024",7 wickets,12
+Match 2,6/2/2024,10:30,False,C,239604,West Indies beat Papua New Guinea by 5 wickets,9,750,WI,PNG,"Guyana National Stadium, Guyana",9,field,9,"ICC Men's T20 World Cup, 2024",5 wickets,750
+Match 3,6/2/2024,20:30,True,B,239605,Oman tied with Namibia (Namibia win Super Over by 11 runs),20,28,NAM,OMA,"Kensington Oval, Bridgetown, Barbados",20,field,20,"ICC Men's T20 World Cup, 2024",11 runs (Super Over),28
+Match 4,6/3/2024,10:30,False,D,239606,South Africa beat Sri Lanka by 6 wickets,8,7,SL,SA,"Nassau County International Cricket Stadium, New York",7,bat,8,"ICC Men's T20 World Cup, 2024",6 wickets,8
+Match 5,6/3/2024,20:30,True,C,239607,Afghanistan beat Uganda by 125 runs,1188,29,AFG,UGA,"Guyana National Stadium, Guyana",1188,field,29,"ICC Men's T20 World Cup, 2024",125 runs,29
+Match 7,6/4/2024,10:30,False,D,239609,Netherlands beat Nepal by 6 wickets,15,637,NED,NEP,"Grand Prairie Cricket Stadium, Dallas",15,field,15,"ICC Men's T20 World Cup, 2024",6 wickets,637
+Match 8,6/5/2024,10:30,False,A,239610,India beat Ireland by 8 wickets,4,13,IND,IRE,"Nassau County International Cricket Stadium, New York",4,field,4,"ICC Men's T20 World Cup, 2024",8 wickets,13
+Match 9,6/5/2024,19:30,True,C,239611,Uganda beat Papua New Guinea by 3 wickets,750,29,PNG,UGA,"Guyana National Stadium, Guyana",29,field,29,"ICC Men's T20 World Cup, 2024",3 wickets,750
+Match 10,6/5/2024,20:30,True,B,239612,Australia beat Oman by 39 runs,1,28,AUS,OMA,"Kensington Oval, Bridgetown, Barbados",1,field,28,"ICC Men's T20 World Cup, 2024",39 runs,28
+Match 11,6/6/2024,10:30,False,A,239613,Pakistan tied with USA (USA win Super Over by 5 runs),22,6,USA,PAK,"Grand Prairie Cricket Stadium, Dallas",22,field,22,"ICC Men's T20 World Cup, 2024",5 runs (Super Over),6
+Match 12,6/6/2024,15:00,True,B,239614,Scotland beat Namibia by 5 wickets,20,16,NAM,SCO,"Kensington Oval, Bridgetown, Barbados",16,bat,20,"ICC Men's T20 World Cup, 2024",5 wickets,20
+Match 13,6/7/2024,10:30,False,A,239615,Canada beat Ireland by 12 runs,12,13,CAN,IRE,"Nassau County International Cricket Stadium, New York",12,field,13,"ICC Men's T20 World Cup, 2024",12 runs,13
+Match 14,6/7/2024,19:30,True,C,239616,Afghanistan beat New Zealand by 84 runs,5,1188,NZ,AFG,"Guyana National Stadium, Guyana",1188,field,5,"ICC Men's T20 World Cup, 2024",84 runs,5
+Match 15,6/7/2024,19:30,True,D,239617,Bangladesh beat Sri Lanka by 2 wickets,8,2,SL,BAN,"Grand Prairie Cricket Stadium, Dallas",2,field,2,"ICC Men's T20 World Cup, 2024",2 wickets,8
+Match 16,6/8/2024,10:30,False,D,239618,South Africa beat Netherlands by 4 wickets,15,7,NED,SA,"Nassau County International Cricket Stadium, New York",7,field,7,"ICC Men's T20 World Cup, 2024",4 wickets,15
+Match 17,6/8/2024,13:00,False,B,239619,Australia beat England by 36 runs,1,3,AUS,ENG,"Kensington Oval, Bridgetown, Barbados",1,field,3,"ICC Men's T20 World Cup, 2024",36 runs,3
+Match 18,6/8/2024,20:30,True,C,239620,West Indies beat Uganda by 134 runs,9,29,WI,UGA,"Guyana National Stadium, Guyana",9,bat,9,"ICC Men's T20 World Cup, 2024",134 runs,29
+Match 19,6/9/2024,10:30,False,A,239621,India beat Pakistan by 6 runs,4,6,IND,PAK,"Nassau County International Cricket Stadium, New York",4,field,6,"ICC Men's T20 World Cup, 2024",6 runs,6
+Match 20,6/9/2024,13:00,False,B,239622,Scotland beat Oman by 7 wickets,28,16,OMA,SCO,"Sir Vivian Richards Stadium, North Sound, Antigua",16,bat,28,"ICC Men's T20 World Cup, 2024",7 wickets,28
+Match 21,6/10/2024,10:30,False,D,239623,South Africa beat Bangladesh by 4 runs,7,2,SA,BAN,"Nassau County International Cricket Stadium, New York",7,bat,7,"ICC Men's T20 World Cup, 2024",4 runs,2
+Match 22,6/11/2024,10:30,False,A,239624,Pakistan beat Canada by 7 wickets,6,12,PAK,CAN,"Nassau County International Cricket Stadium, New York",6,field,6,"ICC Men's T20 World Cup, 2024",7 wickets,12
+Match 24,6/11/2024,20:30,True,B,239626,Australia beat Namibia by 9 wickets,1,20,AUS,NAM,"Sir Vivian Richards Stadium, North Sound, Antigua",1,field,1,"ICC Men's T20 World Cup, 2024",9 wickets,20
+Match 25,6/12/2024,10:30,False,A,239627,India beat USA by 7 wickets,22,4,USA,IND,"Nassau County International Cricket Stadium, New York",4,field,4,"ICC Men's T20 World Cup, 2024",7 wickets,22
+Match 26,6/12/2024,20:30,True,C,239628,West Indies beat New Zealand by 13 runs,9,5,WI,NZ,"Brian Lara Cricket Academy, Tarouba",9,field,5,"ICC Men's T20 World Cup, 2024",13 runs,5
+Match 27,6/13/2024,10:30,False,D,239630,Bangladesh beat Netherlands by 25 runs,2,15,BAN,NED,"Arnos Vale Ground, Arnos Vale, St Vincent",2,field,15,"ICC Men's T20 World Cup, 2024",25 runs,15
+Match 28,6/13/2024,15:00,True,B,239629,England beat Oman by 8 wickets,3,28,ENG,OMA,"Sir Vivian Richards Stadium, North Sound, Antigua",3,field,3,"ICC Men's T20 World Cup, 2024",8 wickets,28
+Match 29,6/13/2024,20:30,True,C,239631,Afghanistan beat Papua New Guinea by 7 wickets,1188,750,AFG,PNG,"Brian Lara Cricket Academy, Tarouba",1188,field,1188,"ICC Men's T20 World Cup, 2024",7 wickets,750
+Match 31,6/14/2024,19:30,True,D,239633,South Africa beat Nepal by 1 run,7,637,SA,NEP,"Arnos Vale Ground, Arnos Vale, St Vincent",7,field,637,"ICC Men's T20 World Cup, 2024",No Margin,637
+Match 32,6/14/2024,20:30,True,C,239634,New Zealand beat Uganda by 9 wickets,5,29,NZ,UGA,"Brian Lara Cricket Academy, Tarouba",5,field,5,"ICC Men's T20 World Cup, 2024",9 wickets,29
+Match 34,6/15/2024,13:00,False,B,239636,England beat Namibia by 41 runs (DLS method),20,3,NAM,ENG,"Sir Vivian Richards Stadium, North Sound, Antigua",3,field,20,"ICC Men's T20 World Cup, 2024",41 runs,20
+Match 35,6/15/2024,20:30,True,B,239637,Australia beat Scotland by 5 wickets,1,16,AUS,SCO,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",1,field,1,"ICC Men's T20 World Cup, 2024",5 wickets,16
+Match 36,6/16/2024,10:30,False,A,239638,Pakistan beat Ireland by 3 wickets,6,13,PAK,IRE,"Central Broward Park & Broward County Stadium, Lauderhill, Florida",6,field,6,"ICC Men's T20 World Cup, 2024",3 wickets,13
+Match 37,6/16/2024,19:30,True,D,239639,Bangladesh beat Nepal by 21 runs,2,637,BAN,NEP,"Arnos Vale Ground, Arnos Vale, St Vincent",2,field,637,"ICC Men's T20 World Cup, 2024",21 runs,637
+Match 38,6/16/2024,20:30,True,D,239640,Sri Lanka beat Netherlands by 83 runs,8,15,SL,NED,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",8,field,15,"ICC Men's T20 World Cup, 2024",83 runs,15
+Match 39,6/17/2024,10:30,False,C,239641,New Zealand beat Papua New Guinea by 7 wickets,5,750,NZ,PNG,"Brian Lara Cricket Academy, Tarouba",5,field,5,"ICC Men's T20 World Cup, 2024",7 wickets,750
+Match 40,6/17/2024,20:30,True,C,239642,West Indies beat Afghanistan by 104 runs,9,1188,WI,AFG,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",9,field,1188,"ICC Men's T20 World Cup, 2024",104 runs,1188
+Super Eight - Match 1,6/19/2024,10:30,False,Group 2,239643,South Africa beat USA by 18 runs,22,7,USA,SA,"Sir Vivian Richards Stadium, North Sound, Antigua",7,field,22,"ICC Men's T20 World Cup, 2024",18 runs,22
+Super Eight - Match 2,6/19/2024,20:30,True,Group 2,239644,England beat West Indies by 8 wickets,3,9,ENG,WI,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",3,field,3,"ICC Men's T20 World Cup, 2024",8 wickets,9
+Super Eight - Match 3,6/20/2024,10:30,False,Group 1,239645,India beat Afghanistan by 47 runs,1188,4,AFG,IND,"Kensington Oval, Bridgetown, Barbados",4,bat,4,"ICC Men's T20 World Cup, 2024",47 runs,1188
+Super Eight - Match 4,6/20/2024,20:30,True,Group 1,239646,Australia beat Bangladesh by 28 runs (DLS method),1,2,AUS,BAN,"Sir Vivian Richards Stadium, North Sound, Antigua",1,field,1,"ICC Men's T20 World Cup, 2024",28 runs,2
+Super Eight - Match 5,6/21/2024,10:30,False,Group 2,239647,South Africa beat England by 7 runs,3,7,ENG,SA,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",7,field,3,"ICC Men's T20 World Cup, 2024",7 runs,3
+Super Eight - Match 6,6/21/2024,20:30,True,Group 2,239648,West Indies beat USA by 9 wickets,22,9,USA,WI,"Kensington Oval, Bridgetown, Barbados",9,field,9,"ICC Men's T20 World Cup, 2024",9 wickets,22
+Super Eight - Match 7,6/22/2024,10:30,False,Group 1,239649,India beat Bangladesh by 50 runs,4,2,IND,BAN,"Sir Vivian Richards Stadium, North Sound, Antigua",4,field,2,"ICC Men's T20 World Cup, 2024",50 runs,2
+Super Eight - Match 8,6/22/2024,20:30,True,Group 1,239650,Afghanistan beat Australia by 21 runs,1188,1,AFG,AUS,"Arnos Vale Ground, Arnos Vale, St Vincent",1188,field,1,"ICC Men's T20 World Cup, 2024",21 runs,1
+Super Eight - Match 9,6/23/2024,10:30,False,Group 2,239651,England beat USA by 10 wickets,22,3,USA,ENG,"Kensington Oval, Bridgetown, Barbados",3,field,3,"ICC Men's T20 World Cup, 2024",10 wickets,22
+Super Eight - Match 10,6/23/2024,20:30,True,Group 2,239652,South Africa beat West Indies by 3 wickets (DLS method),9,7,WI,SA,"Sir Vivian Richards Stadium, North Sound, Antigua",7,field,7,"ICC Men's T20 World Cup, 2024",3 wickets,9
+Super Eight - Match 11,6/24/2024,10:30,False,Group 1,239653,India beat Australia by 24 runs,1,4,AUS,IND,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",4,field,1,"ICC Men's T20 World Cup, 2024",24 runs,1
+Super Eight - Match 12,6/24/2024,20:30,True,Group 1,239654,Afghanistan beat Bangladesh by 8 runs (DLS method),1188,2,AFG,BAN,"Arnos Vale Ground, Arnos Vale, St Vincent",1188,bat,1188,"ICC Men's T20 World Cup, 2024",8 runs,2
+1st Semi-Final,6/26/2024,20:30,True,,239655,South Africa beat Afghanistan by 9 wickets,7,1188,SA,AFG,"Brian Lara Cricket Academy, Tarouba, Trinidad and Tobago",7,bat,1188,"ICC Men's T20 World Cup, 2024",9 wickets,1188
+2nd Semi-Final,6/27/2024,10:30,False,,239656,India beat England by 68 runs,4,3,IND,ENG,"Guyana National Stadium, Guyana",4,field,3,"ICC Men's T20 World Cup, 2024",68 runs,3
+Final,6/29/2024,10:30,False,,239657,India beat South Africa by 7 runs,7,4,SA,IND,"Kensington Oval, Bridgetown, Barbados",4,bat,4,"ICC Men's T20 World Cup, 2024",7 runs,7
