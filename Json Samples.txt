@@ -1,0 +1,111 @@
+Batting Summary--------------------------
+{
+  "matchId": 1,
+  "battingScore" : [
+    {
+      "battingTeam" : "IND",
+      "CRR" : "8.80",
+      "overs" : "20.0",
+      "totalScore" : 176,
+      "wickets" : 7,
+      "scores": [
+        {
+          "playerName": "Rohit Sharma",
+          "status": "c Heinrich Klaasen b Keshav Maharaj",
+          "runs": 9,
+          "balls": 5,
+          "fours": 2,
+          "sixes": 0,
+          "strikeRate": "168.88"
+        },
+        {
+          "playerName": "Rohit Sharma",
+          "status": "c Heinrich Klaasen b Keshav Maharaj",
+          "runs": 9,
+          "balls": 5,
+          "fours": 2,
+          "sixes": 0,
+          "strikeRate": "168.88"
+        }
+        ]
+    },
+{
+      "battingTeam" : "AUG",
+      "CRR" : "8.80",
+      "overs" : "20.0",
+      "totalScore" : 176,
+      "wickets" : 7,
+      "scores": [
+        {
+          "playerName": "Rohit Sharma",
+          "status": "c Heinrich Klaasen b Keshav Maharaj",
+          "runs": 9,
+          "balls": 5,
+          "fours": 2,
+          "sixes": 0,
+          "strikeRate": "168.88"
+        },
+        {
+          "playerName": "Rohit Sharma",
+          "status": "c Heinrich Klaasen b Keshav Maharaj",
+          "runs": 9,
+          "balls": 5,
+          "fours": 2,
+          "sixes": 0,
+          "strikeRate": "168.88"
+        }
+        ]
+    }
+    ]
+}
+
+
+teams-------------------------------------------
+
+{
+  "team": "IND",
+  "flag": "https://assets-icc.sportz.io/static-assets/buildv3-stg/images/teams/4.png?v=7",
+  "players": [
+    {
+      "playerImage": "https://images.icc-cricket.com/icc-web/image/upload/t_player-headshot-square/prd/assets/players/6122/3852.png",
+      "playerName": "Rohit Sharma",
+      "playerStats": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/teams/4/players/3852/rohit-sharma",
+      "playerId": 1
+    },
+    {
+      "playerImage": "https://images.icc-cricket.com/icc-web/image/upload/t_player-headshot-square/prd/assets/players/6122/3852.png",
+      "playerName": "Rohit Sharma",
+      "playerStats": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/teams/4/players/3852/rohit-sharma",
+      "playerId": 2
+    }
+  ]
+}
+
+Bowling Summary-------------------------------------------
+
+{
+    "matchId" : 1,
+    "bowlingInfo": [
+        {
+            "bowlingTeam" : "CAN",
+            "extras": {
+                "nb" : 3,
+                "wd" : 14,
+                "b" : 0,
+                "lb" : 2,
+                "p" : 0
+            }
+            "extrasTotal" : 19,
+            "bowling": [
+                {
+                    "playerName": "Kaleem Sana",
+                    "overs" : 4,
+                    "maidens" : 0,
+                    "runs" : 34,
+                    "wickets" : 1,
+                    "economy" : "8.50"
+                }
+            ]
+        }
+    ]
+}
