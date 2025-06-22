@@ -1,7 +1,18 @@
 # ICC_t20_WC_24
 Developed a data pipeline that scrapes Cricket World Cup data from the ICC website, processes it, and visualizes performance metrics of teams and players in Power BI
 
-## 🏏 ICC_t20_WC_24 – Part 1: Data Fetching & Cleaning (Jupyter Notebooks)
+---
+
+## 📌 Project Overview
+
+This project is divided into two main phases:
+
+1. **Part 1 – Data Fetching & Cleaning (Jupyter Notebooks)**
+2. **Part 2 – Power BI Dashboard Development**
+
+---
+
+## 🏏 Part 1: Data Fetching & Cleaning (Jupyter Notebooks)
 
 It focuses on **automated data collection and cleaning** using Python to prepare match, batting, and bowling datasets for further analysis and visualization.
 
@@ -40,6 +51,73 @@ It focuses on **automated data collection and cleaning** using Python to prepare
 - **`TeamList.csv`** – Team list metadata(players, flag, player image, stats)
 
 These files are used as input for the Power BI dashboard in the next phase.
+
+---
+
+## 📊 Part 2 – Power BI Dashboard Development
+
+### 📆 Objective
+
+To develop a dynamic and interactive **Power BI dashboard** using cleaned datasets to analyze team and player performance throughout the T20 World Cup 2024.
+
+### 🔧 Technical Implementation
+
+- **Data Import & Modeling**
+  - Imported `.csv` files into Power BI Desktop
+  - Created relationships between match, player, and team datasets
+
+- **DAX Measures & KPIs**
+  - Calculated total runs, wickets, centuries, and filtered rankings
+  - Defined reusable DAX measures for cross-report consistency
+
+- **Power Query**
+  - Applied additional filtering and data transformations inside Power BI
+
+### 📝 Report Pages
+
+#### 1. **Top Performers**
+
+- Visuals:
+  - Top 3 Run Scorers
+  - Top 3 Wicket Takers
+  - Tournament-wide metrics: Total Runs, Total Centuries
+
+#### 2. **Team Sheet**
+
+- Team-wise performance tables:
+  - Player list with total runs/wickets
+  - Used **column charts** to visualize top players with highest **sixes** and **wickets**
+  - Removed player images and team flags for a cleaner tabular experience
+
+#### 3. **Player Sheet**
+
+- Individual player performance:
+  - Stats against each opponent
+  - Fetched **player images** and **team flags** for identity reference
+  - Used multiple visuals including **column charts**, **gauge charts**, and more for various KPIs
+
+#### 4. **Compare Sheet**
+
+- Head-to-head comparison of two selected players:
+  - Performance breakdown per opponent
+  - Useful for analytical comparison and decision support
+
+### 🏋️ Output Highlights
+
+- Fully interactive dashboard with slicers, drill-throughs, and responsive visuals
+- Supports both **high-level summaries** and **granular breakdowns**
+- Easily extensible for future match data or real-time updates
+
+---
+
+### 🛠️ Tools & Technologies
+
+| Tool        | Purpose                                |
+| ----------- | -------------------------------------- |
+| Power BI    | Data modeling and dashboard creation   |
+| DAX         | Metrics and custom calculations        |
+| Power Query | In-app data shaping and transformation |
+| CSV Files   | Input from Python-based ETL pipeline   |
 
 ---
 
