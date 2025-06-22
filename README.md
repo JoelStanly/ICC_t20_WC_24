@@ -43,6 +43,16 @@ These files are used as input for the Power BI dashboard in the next phase.
 
 ---
 
+## Result Dashboard
+
+![Dashboard](/Result%20Images/Dashboard.JPG)
+
+![Plyaer Stats](/Result%20Images/Player%20Stats.JPG)
+
+![Team Comparison](/Result%20Images/Team%20comparison.JPG)
+
+![Team Stats](/Result%20Images/Teams%20Stats.JPG)
+
 ## 👥 Contributors
 
 - [Joel Stanly](https://github.com/JoelStanly)
