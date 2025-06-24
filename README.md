@@ -60,5 +60,28 @@ These files are used as input for the Power BI dashboard in the next phase.
 
 ---
 
+## 🚀 Usage
+
+1. Clone the repository:
+```https://github.com/JoelStanly/ICC_t20_WC_24.git```
+
+2. Install the required Python packages:
+``` pip install -r requirements.txt ```
+
+3. Ensure Selenium WebDriver is installed
+
+3. Run the Jupyter notebook 02_Data_Cleaning.ipynb
+
+4. Output CSV files will be saved
+    - matches.csv
+    - batting_summary.csv
+    - bowling_summary.csv
+    - team_list.csv
+
+These files can then be used directly in Power BI for further analysis.
+
+---
+Let me know if you're using Jupyter Lab or VS Code and want to customize the steps accordingly.
+
 ## 📜 License
 This project is licensed under the MIT License.
